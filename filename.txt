@@ -1,0 +1,5 @@
+1,python,10,10
+2,core java,20,20
+3,python,
+1,python,20,10
+5,advanced java,hel,10
